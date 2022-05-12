@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+table{
+    background-color: black;
+    width: 500px;
+    margin: 50px auto;
+
+}
+
+tr{
+    padding: 5px;
+}
+td{
+    text-align: center;
+    border: 1px solid black;
+    background: white;
+    padding: 5px;
+}
+
+form{
+    width: 350px;
+    margin: 50px auto;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 5px;
+}
+input{
+    width: 100%;
+    padding: 5px 0;
+    margin:  0 0 10px 0;
+}
+select{
+    width: 100%;
+    margin:  0 0 10px 0;
+    padding: 5px 0;
+
+
+}
+
+a{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 15px;
+    background: blue;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    width: 150px;
+    margin: 20px auto;
+
+}
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    margin: 20px;
+}
+
+.btn{
+    background: green;
+    height: 35px;
+    color: white;
+    font-weight: bold;
+}
+p{
+    text-align: center;
+    margin: 0 0 20px 0 ;
+}
